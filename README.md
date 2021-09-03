@@ -3,8 +3,7 @@ template de site
 
 teste
 ---
-* teste
-* testando
+* Projeto
 ---
 Criando futuro
 ---
