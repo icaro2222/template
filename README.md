@@ -7,7 +7,7 @@ teste
 ---
 Criando futuro
 ---
-### **Membros da equipe** 
+### **Membros do Projeto!** 
 <table align="center">
 	    <tr>
 	        <td align="center">
