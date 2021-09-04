@@ -15,7 +15,6 @@ Criando futuro
 	                <b>Ícaro Dias</b>
 	            </a>
 	            <br><img src="https://img.icons8.com/ultraviolet/40/000000/elephant.png" width="12%"/> Back End</br>
-		    <br><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/git-branch-512.png" width="12%"/> Back End</br>
 	        </td>
 	        <td align="center">
 	            <a href="https://github.com/Joedson-Bomfim">
@@ -29,6 +28,7 @@ Criando futuro
 </table>
 
 ---
+<br><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/git-branch-512.png" width="12%"/> Back End</br>
 Qual o foco deste Site Web?
 ---
 * Este trabalha esta sendo desenvolvido com o proposito de desenvolver o nosso conhecimento em tecnologias como php, html, js, css e entre outros. Assim como também para termos uma experiência no mercado de trabalho.
