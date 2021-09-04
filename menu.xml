@@ -118,12 +118,12 @@
         </menu>
     </menuitem>   
     <!-- exemplo -->
-    <menuitem label='exemplo'>
-        <icon>fas:code</icon>
+    <menuitem label='Info'>
+        <icon>fas:info-circle</icon>
         <menu>
-            <menuitem label='Teste'>
+            <menuitem label='Apender'>
                 <icon>fas:code</icon>
-                <action>WelcomeView</action>
+                <action>TesteView</action>
             </menuitem>
         </menu>
     </menuitem>
