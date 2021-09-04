@@ -28,6 +28,6 @@ Criando futuro
 </table>
 
 ---
-como fazer?
+Qual o foco deste Site Web?
 ---
 * Este trabalha esta sendo desenvolvido com o proposito de desenvolver o nosso conhecimento em tecnologias como php, html, js, css e entre outros. Assim como também para termos uma experiência no mercado de trabalho.
