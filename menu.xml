@@ -116,6 +116,16 @@
                 <action>CommonPage</action>
             </menuitem>
         </menu>
+    </menuitem>   
+    <!-- exemplo -->
+    <menuitem label='exemplo'>
+        <icon>fas:code</icon>
+        <menu>
+            <menuitem label='Teste'>
+                <icon>fas:code</icon>
+                <action>WelcomeView</action>
+            </menuitem>
+        </menu>
     </menuitem>
     
     <menuitem label='Logout'>
