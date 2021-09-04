@@ -1,7 +1,5 @@
 # template
-template de site
 
-teste
 ---
 * Projeto :computer:
 ---
@@ -28,10 +26,6 @@ Criando futuro
 	        </td>
 	    </tr>
 </table>
-
----
-esta tudo ok até agora
-<li>Ola</li>
 
 ---
 como fazer?
