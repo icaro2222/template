@@ -15,6 +15,7 @@ Criando futuro
 	                <b>Ícaro Dias</b>
 	            </a>
 	            <br><img src="https://img.icons8.com/ultraviolet/40/000000/elephant.png" width="12%"/> Back End</br>
+		    <br><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/git-branch-512.png" width="12%"/> Back End</br>
 	        </td>
 	        <td align="center">
 	            <a href="https://github.com/Joedson-Bomfim">
