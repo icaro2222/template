@@ -122,8 +122,8 @@
         <icon>fas:info-circle</icon>
         <menu>
             <menuitem label='Apender'>
-                <icon>fas:code</icon>
-                <action>TesteView</action>
+                <icon>fas:desktop</icon>
+                <action>WelcomeView</action>
             </menuitem>
         </menu>
     </menuitem>

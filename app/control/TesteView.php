@@ -8,7 +8,7 @@
  * @copyright  Copyright (c) 2006 Adianti Solutions Ltd. (http://www.adianti.com.br)
  * @license    http://www.adianti.com.br/framework-license
  */
-class TesteView extends TPage
+class TesteView extends Twindowns
 {
     /**
      * Class constructor
