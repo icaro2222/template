@@ -15,6 +15,22 @@
             </menuitem>
         </menu>
     </menuitem>
+    <menuitem label='Public pages'>
+        <menu>
+            <menuitem label='Public page 1'>
+                <icon></icon>
+                <action>TesteView</action>
+            </menuitem>
+            <menuitem label='Public page 2'>
+                <icon></icon>
+                <action>PublicView</action>
+            </menuitem>
+            <menuitem label='Public page 3'>
+                <icon></icon>
+                <action>PublicView</action>
+            </menuitem>
+        </menu>
+    </menuitem>
     
     <menuitem label='Login'>
         <menu>
@@ -30,6 +46,24 @@
             
             <menuitem label='_t{Reset password}'>
                 <icon>fa:eraser fa-fw</icon>
+                <action>SystemRequestPasswordResetForm</action>
+            </menuitem>
+        </menu>
+    </menuitem>
+    <menuitem label='Configurações'>
+        <menu>
+            <menuitem label='Adicionar'>
+                <icon>fa:user-plus</icon>
+                <action>LoginForm</action>
+            </menuitem>
+            
+            <menuitem label='Criar'>
+                <icon>fa:user-plus fa-fw</icon>
+                <action>SystemRegistrationForm</action>
+            </menuitem>
+            
+            <menuitem label='Remover'>
+                <icon>fa:eraser</icon>
                 <action>SystemRequestPasswordResetForm</action>
             </menuitem>
         </menu>
