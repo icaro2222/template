@@ -3,15 +3,15 @@
         <menu>
             <menuitem label='Public page 1'>
                 <icon></icon>
-                <action>Configurações</action>
+                <action>PublicView</action>
             </menuitem>
             <menuitem label='Public page 2'>
                 <icon></icon>
-                <action>Comunicação</action>
+                <action>PublicView</action>
             </menuitem>
             <menuitem label='Public page 3'>
                 <icon></icon>
-                <action>Ver mais</action>
+                <action>PublicView</action>
             </menuitem>
         </menu>
     </menuitem>
@@ -20,7 +20,7 @@
         <menu>
             <menuitem label='Login'>
                 <icon>fa:sign-in-alt fa-fw</icon>
-                <action>Proibido</action>
+                <action>LoginForm</action>
             </menuitem>
             
             <menuitem label='_t{Create account}'>
