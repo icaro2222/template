@@ -32,3 +32,7 @@ Qual o foco deste Site Web?
 ---
 * Este trabalha esta sendo desenvolvido com o proposito de desenvolver o nosso conhecimento em tecnologias como php, html, js, css e entre outros. Assim como também para termos uma experiência no mercado de trabalho.
 * Template é um documento de conteúdo, com apenas a apresentação visual e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação — por exemplo conteúdos que podem aparecer no início e conteúdos que só podem aparecer no final. Funciona como uma predefinição usada na linguagem
+
+---
+* Módulo :gear:
+---
